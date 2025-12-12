@@ -10,5 +10,9 @@ a {
     text-align:center;
 }
 body {
-    background-color: lightgrey;
+    background-color: rgb(134, 132, 132);
+}
+img {
+    width: 220px;
+
 }
