@@ -8,6 +8,8 @@
 }
 
 nav {
+    border: solid black ;
+
     background-color: #1f476e;
     padding: 20px;
     text-align: center;
@@ -32,6 +34,7 @@ body {
 img {
     width: 220px;
     border-radius: 50%;
+    border: solid black;
 
 }
 .card {
@@ -39,6 +42,7 @@ img {
   font-family: "Acme", sans-serif;
   font-weight: 400;
   font-style: normal;
+  border: solid black;
 
 
     background-color: white;

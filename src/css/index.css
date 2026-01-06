@@ -8,6 +8,7 @@
 }
 
 nav {   
+    border: solid black ;
     background-color: #1f476e;
     padding: 20px;
     text-align: center;
@@ -33,7 +34,7 @@ body {
 }
 .emagem{
     padding-top: 55px;
-    border-radius: 09%;
+    border-radius: 9%;
 }
 .icon {
     /* border: 1px solid black; */
@@ -42,3 +43,18 @@ body {
 
     margin-top: 50px;
 } 
+.card {
+    border: solid black;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+ 
+    font-family: Arial, Helvetica, sans-serif;
+
+    background-color: white;
+    padding: 15px;
+    margin: 15px 5px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0,0.1);
+}
